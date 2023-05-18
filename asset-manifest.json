@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6e93741.css",
-    "main.js": "/static/js/main.41fd3552.js",
-    "static/media/bg_img.png": "/static/media/bg_img.e8c9cb4c0636ae856448.png",
-    "index.html": "/index.html",
-    "main.c6e93741.css.map": "/static/css/main.c6e93741.css.map",
-    "main.41fd3552.js.map": "/static/js/main.41fd3552.js.map"
+    "main.css": "/edyoda/static/css/main.6cdde182.css",
+    "main.js": "/edyoda/static/js/main.41fd3552.js",
+    "static/media/bg_img.png": "/edyoda/static/media/bg_img.e8c9cb4c0636ae856448.png",
+    "index.html": "/edyoda/index.html",
+    "main.6cdde182.css.map": "/edyoda/static/css/main.6cdde182.css.map",
+    "main.41fd3552.js.map": "/edyoda/static/js/main.41fd3552.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6e93741.css",
+    "static/css/main.6cdde182.css",
     "static/js/main.41fd3552.js"
   ]
 }
