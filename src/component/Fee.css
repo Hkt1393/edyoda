@@ -1,0 +1,6 @@
+.subscriptionfee {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 41px;
+  /* background-color: red; */
+}

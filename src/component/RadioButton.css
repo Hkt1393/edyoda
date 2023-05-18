@@ -1,0 +1,13 @@
+.inputbtn {
+  display: flex;
+}
+.hkt {
+  width: 440px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  margin: 10px 27px;
+  border-radius: 5px;
+  border: 2px solid darkgrey;
+}

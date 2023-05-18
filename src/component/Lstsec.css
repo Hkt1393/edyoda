@@ -1,0 +1,22 @@
+.lstsec {
+  margin: 0px 35px;
+  width: 440px;
+  border-radius: 5px;
+  border: 1px solid darkgrey;
+  padding: 5px 0px;
+  /* align-items: center; */
+  background: linear-gradient(
+    135deg,
+    #d46969 30.37%,
+    #d77171 38.27%,
+    #db7e7e 46.66%,
+    #e08888 55.41%,
+    #df8e8e 64.39%,
+    #e09898 73.47%,
+    #d8a2a2 82.52%,
+    #d2a7a7 91.41%,
+    #d4b2b2 100%
+  );
+  border: 1px solid red;
+  color: rgb(214, 32, 32);
+}

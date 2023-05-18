@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@900&family=Tilt+Neon&display=swap");
+
+.title {
+  text-decoration: none;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 38px;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 2%;
+  background: linear-gradient(90.72deg, #0096ff 42.18%, #0048ff 93.77%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-right: 20px;
+}
+
+.login {
+  text-decoration: none;
+  color: black;
+}
+
+.join {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 140px;
+  height: 40px;
+  background: linear-gradient(266.79deg, #0048ff 4.63%, #0096ff 100%);
+  border-radius: 52px;
+  border: transparent;
+  font-weight: 600;
+  color: white;
+}

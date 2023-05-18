@@ -1,0 +1,13 @@
+.header {
+  color: white;
+  font-size: 45px;
+}
+
+.hlt {
+  font-size: 55px;
+}
+
+.tdlt {
+  text-decoration: line-through;
+  text-decoration-color: red;
+}

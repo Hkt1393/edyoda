@@ -1,0 +1,27 @@
+.form-header {
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 15px 0px;
+}
+
+.number {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #0096ff;
+  color: white;
+}
+
+.signup,
+.subscribe {
+  display: flex;
+  justify-content: space-evenly;
+  font-weight: 600;
+}
